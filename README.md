@@ -27,7 +27,7 @@
 - ```⚡ Fun fact: I spend almost 5 hours reading books 📚📖 every day🤓```
 
 
-
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/cyber_smile)](https://t.me/cyber_smile)
 
 
 
