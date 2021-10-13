@@ -5,6 +5,10 @@
 #### ```Hello I'm ```Cyber smile
 ```🚀from India 🇮🇳```
 
+<h3 align="center">ᴛᴏᴛᴀʟ ᴘʀᴏғɪʟᴇ ᴠɪᴇᴡs!!</h3>
+
+![Visitor Count](https://profile-counter.glitch.me/C7836-5M1L3/count.svg)
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 .
 
