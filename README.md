@@ -17,7 +17,7 @@
 <a href="https://wa.me/+33643000003"><img title="CYBER SMILE" src="https://img.shields.io/badge/Cyber_smile-CONTACT ME ON-SMILE/CYBER%20SMILE?color=Blue&style=for-the-badge&logo=whatsapp"></a>
 <p align="center">
 
-### - More!-
+### More Status!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=C7836-5M1L3&show_icons=true&locale=en&layout=compact" alt="C7836-5M1L3" /></p>
 
