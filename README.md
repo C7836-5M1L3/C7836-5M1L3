@@ -19,7 +19,12 @@
 
 ### - More!-
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=C7836-5M1L3&show_icons=true&locale=en&layout=compact" alt="C7836-5M1L3" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=C7836-5M1L3&show_icons=true&locale=en" alt="C7836-5M1L3" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=C7836-5M1L3&theme=light" alt="C7836-5M1L3" /></p>
+</p>
 
 - ```🔭 I’m currently working on ETHICAL HACKING 😁```
 
