@@ -13,7 +13,7 @@
 .
 
 <p align="center">
-<a href="https://wa.me/+33643000003"><img title="SMILE" src="https://img.shields.io/badge/Cyber_smile-CONTACT ME ON-SMILE/SM%20ILE?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/+33643000003"><img title="SMILE" src="https://img.shields.io/badge/smile-CONTACT ME ON-SMILE/SM%20ILE?color=Blue&style=for-the-badge&logo=whatsapp"></a>
 <p align="center">
 
 ---
